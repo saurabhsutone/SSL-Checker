@@ -30,4 +30,4 @@ This PowerShell script allows users to check the **SSL certificate details** of 
 
 2. **Clone the repository using Git:**
    ```powershell
-   git clone https://github.com/<your-username>/SSL-Checker.git
+   git clone https://github.com/saurabhsutone/SSL-Checker.git
